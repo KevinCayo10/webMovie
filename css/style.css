@@ -73,7 +73,7 @@ ul {
 
 .showcase {
   width: 80%;
-  height: 400px;
+  height: 250px;
   background: url("../img/Pelicula001.jpg") no-repeat center center/cover;
   display: flex;
   flex-direction: column;
@@ -93,3 +93,238 @@ ul {
 .showcase .btn {
   margin-top: 20px;
 }
+
+footer{
+  font-family: "Arial";
+  font-size: 15px;
+  margin-top: -10px;
+  width: 100%;
+  padding: 50px;
+  clear: both;
+
+position: absolute;
+top:190%;
+
+background: rgba(217, 217, 217, 0.3);
+mix-blend-mode: normal;
+}
+
+#primera{
+ font-family: "Arial";
+  font-size: 15px;
+  left: 20%;
+  right: 20%;
+  margin-top: -10px;
+  padding: 30px;
+  clear: both;
+
+top:60%;
+
+
+position: absolute;
+
+
+background: rgba(217, 217, 217, 0.2);
+mix-blend-mode: normal;
+
+}
+
+#segunda{
+  font-family: "Arial";
+  font-size: 15px;
+  left: 20%;
+  right: 20%;
+  margin-top: -10px;
+  padding: 30px;
+  clear: both;
+
+top:140%;
+
+
+position: absolute;
+
+
+background: rgba(217, 217, 217, 0.2);
+mix-blend-mode: normal;
+}
+
+#PF{
+  position: absolute;
+left: 32.62%;
+right: 32.53%;
+top: 2.46%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+#a1{
+position: absolute;
+left: 6.63%;
+right: 9.32%;
+top:50%;
+background: rgba(21, 154, 156, 0.75);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #002333;
+
+}
+
+#a2{
+position: absolute;
+left: 6.63%;
+right: 9.32%;
+top: 80%;
+background: rgba(21, 154, 156, 0.75);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #002333;
+}
+#a3{
+position: absolute;
+left: 6.63%;
+right: 9.32%;
+top: 110%;
+
+background: rgba(21, 154, 156, 0.75);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #002333;
+}
+
+#contactos{
+
+position: absolute;
+left: 27.45%;
+right: 60.62%;
+top: 5.23%;
+bottom: 74.22%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#aviso{
+
+  position: absolute;
+left: 53.12%;
+right: 32.71%;
+top: 5.23%;
+bottom: 79.09%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 59px;
+
+color: #FFFFFF;
+}
+
+#acercaT{
+
+left: 33.78%;
+right: 34.68%;
+top: 11.3%;
+bottom: 70.99%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 47px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#acerca{
+
+left: 2.51%;
+right: 2.6%;
+top: 28.94%;
+bottom: 8.02%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+#logo_tittle2{
+position: absolute;
+left: 10.47%;
+right: 76.41%;
+top: 16.72%;
+bottom: 66.55%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 59px;
+
+color: #EEEEEE;
+}
+
+#log{
+
+left: 6.25%;
+right: 90.47%;
+top: 13.94%;
+bottom: 64.11%;
+
+font-family: 'Font Awesome 6 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 65px;
+
+color: #FFFFFF;
+}
+
+
