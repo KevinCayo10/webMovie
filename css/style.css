@@ -16,14 +16,17 @@ body {
   padding: 0;
   margin: 0;
   border-width: 0;
-  font-size: 1.5em;
-  padding-left: 1%;
+  font-size: 2em;;
   color: #fff;
+  padding-left: 1em;
+
 }
 
 a {
   color: #ffffff;
   text-decoration: none;
+  
+
 }
 
 ul {
@@ -124,7 +127,7 @@ ul {
 .footer {
   position: absolute;
   left: 0px;
-  bottom: 0px;
+
   top: 170%;
   height: 40%;
   width: 100%;
@@ -168,6 +171,7 @@ color: #FFFFFF;
   font-family: inherit;
   font-weight: bold;
   padding: 5px 0px 5px 0px;
+  line-height: 15px;
   cursor: pointer;
   transition: 0.2s;
   -webkit-transition: 0.2s;
@@ -255,6 +259,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 15px;
 line-height: 41px;
+padding-left: 1em;
 /* identical to box height */
 
 
@@ -268,7 +273,7 @@ left: 6.63%;
 right: 9.32%;
 top: 50%;
 background: rgba(21, 154, 156, 0.75);
-
+padding-left: 1em;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
@@ -286,7 +291,7 @@ right: 9.32%;
 top: 75%;
 
 background: rgba(21, 154, 156, 0.75);
-
+padding-left: 1em;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
@@ -369,28 +374,90 @@ line-height: 59px;
 color: #EEEEEE;
 }
 
-#log{
 
-left: 6.25%;
-right: 90.47%;
-top: 13.94%;
-bottom: 64.11%;
-
-font-family: 'Font Awesome 6 Free';
+#avisolegal{
+  width: 35em;
+font-family: 'Roboto';
 font-style: normal;
-font-weight: 900;
-font-size: 20px;
-line-height: 65px;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+text-align: justify;
+color: #FFFFFF;
+
+}
+
+#logoM{
+
+padding-top: 1em;
+
+}
+
+#copy{
+  position: absolute;
+left: 26.82%;
+right: 26.88%;
+text-align: center;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 40px;
 
 color: #FFFFFF;
 }
 
-#e{
-  font-family: 'Roboto';
+#a11{
+  position: absolute;
+left: 85.66%;
+right: 11.2%;
+top: 24%;
+bottom: 67.98%;
+
+font-family: 'Font Awesome 6 Free';
 font-style: normal;
-font-weight: 400;
-font-size: 10px;
-line-height: 20px;
+font-weight: 900;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
 
 color: #FFFFFF;
+}
+
+#a22{
+position: absolute;
+left: 85.66%;
+right: 11.2%;
+top: 50%;
+bottom: 41.99%;
+
+font-family: 'Font Awesome 6 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#a33{
+position: absolute;
+left: 85.66%;
+right: 11.2%;
+top: 75%;
+bottom: 16.01%;
+
+font-family: 'Font Awesome 6 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
 }
