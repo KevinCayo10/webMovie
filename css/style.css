@@ -125,9 +125,10 @@ ul {
   position: fixed;
   left: 0px;
   bottom: 0px;
-  height: auto;
+  height: 25%;
   width: 100%;
-  background-color: #fefefe24;
+  background: rgba(217, 217, 217, 0.3);
+mix-blend-mode: normal;
 }
 .footer .col {
   width: 30%;
@@ -181,20 +182,6 @@ ul {
   clear: both;
 }
 
-footer{
-  font-family: "Arial";
-  font-size: 15px;
-  margin-top: -10px;
-  width: 100%;
-  padding: 50px;
-  clear: both;
-
-position: absolute;
-top:190%;
-
-background: rgba(217, 217, 217, 0.3);
-mix-blend-mode: normal;
-}
 
 #primera{
  font-family: "Arial";
